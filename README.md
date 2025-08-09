@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👨‍🎓 Sains Data @ UNESA | 🔍 Data Analyst & Engineer in progress  
+- 🧰 Python • Jupyter • PostgreSQL  
+- 📡 Interning @ Dinas Kominfo
