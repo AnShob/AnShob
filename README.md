@@ -21,4 +21,4 @@
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ##### Contact Me 
-![image](https://skillicons.dev/icons?i=instagram) ![image](https://skillicons.dev/icons?i=linkedin)
+![https://www.instagram.com/annas.shobari/](https://skillicons.dev/icons?i=instagram) ![https://www.linkedin.com/in/moh-annas-shobari](https://skillicons.dev/icons?i=linkedin)
