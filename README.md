@@ -2,21 +2,6 @@
 
 ![Gambar Aku](img/LinkedIn%20cover%20-%201.png)
 
-<!--
-**AnShob/AnShob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 👨‍🎓 Sains Data @ UNESA | 🔍 Data Analyst & Engineer in progress  
 - 🧰 Python • Jupyter • PostgreSQL  
 - 📡 Currently interning @ Dinas Kominfo
@@ -25,11 +10,11 @@ Here are some ideas to get you started:
 ##### Skills
 - Data Analyst
 - Data Engineer
-- On going to Web Developer
+- On-going to Web Developer
 - Fluent in English and Arabic
 
 ##### Language Programming
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ##### Tools and Framework
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -45,8 +30,9 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <a href="https://Linkedin/in/moh-annas-shobari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Instagram" height="30" style="vertical-align: middle; margin-right: 8px;"/>
+  <a href="https://www.linkedin.com/in/moh-annas-shobari" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="30" style="vertical-align: middle; margin-right: 8px;"/>
     <span style="vertical-align: middle;">Moh Annas Shobari</span>
   </a>
 </p>
+
