@@ -13,6 +13,13 @@
 - On-going to Web Developer
 - Fluent in English and Arabic
 
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnShob&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnShob&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ##### Language Programming
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
